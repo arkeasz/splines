@@ -1,1 +1,1 @@
-**/*.md linguist-generated=true
+*.md linguist-detectable=true
