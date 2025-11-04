@@ -22,6 +22,7 @@ transition: slide-left
 mdc: true
 # duration of the presentation
 duration: 35min
+
 ---
 
 # Splines Cúbicos
@@ -60,6 +61,17 @@ src: ./pages/expar14.md
 
 ---
 layout: two-cols-header
-transition: fade-out
 src: ./pages/expar15.md
+---
+
+---
+layout: two-cols-header
+transition: fade-out
+src: ./pages/expar16.md
+---
+
+---
+layout: two-cols-header
+transition: fade-out
+src: ./pages/expar17.md
 ---

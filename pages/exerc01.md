@@ -35,6 +35,10 @@ table {
   background-color: #ddd;
 }
 
+table * {
+  color: #111
+}
+
 th {
   text-align: center;
   border: 2px solid #111;
